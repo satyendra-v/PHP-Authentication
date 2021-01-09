@@ -1,0 +1,30 @@
+  
+
+/*@keyframes dissappearAnimation {
+    0%{}
+    90%{}
+    100%{visibility: hidden;}
+}*/
+body{
+    margin: 50px;
+    padding: 50px;
+
+    font-size: 20px;
+}
+
+form{
+    display: grid;
+}
+
+input{
+    height: 30px;
+    width: 250px;
+    margin-top: 3px;
+    border-radius: 10px;
+    outline: none;
+}
+input[type=submit]{
+    width: 120px;
+    font-size: 15px;
+    height: 40px;
+}
